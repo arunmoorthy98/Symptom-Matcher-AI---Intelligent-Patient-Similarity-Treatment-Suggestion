@@ -5,12 +5,10 @@
 **Symptom-Matcher AI** is a machine learning-powered web application that assists healthcare professionals in identifying similar patients based on symptoms and diseases. It also categorizes patients based on doctor comments, helping doctors make informed treatment decisions. The system leverages **NLP (Natural Language Processing)** and **Machine Learning (ML)** techniques to streamline patient diagnosis and improve healthcare efficiency.
 
 ## 📍 Project Details
+- **Email:**arun63829@gmail.com
 
-- **Location:** Dodoma, Tanzania
-- **Email:** [sashashamsia@gmail.com](mailto\:sashashamsia@gmail.com)
-- **WhatsApp:** +255675839840
-- **Demo:** Online
 
+-
 ## 🎯 Target Audience
 
 | Icon  | Rank | Target Audience                                                      |
